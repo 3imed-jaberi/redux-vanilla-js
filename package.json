@@ -1,0 +1,39 @@
+{
+  "name": "redux-vanilla-js",
+  "version": "1.0.0",
+  "description": " redux implementation with native javascript .. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/redux-vanilla-js.git"
+  },
+  "keywords": [
+    "redux",
+    "javascript",
+    "es5",
+    "es6",
+    "es-next",
+    "vanilla-js",
+    "store",
+    "actions",
+    "dispatcher",
+    "reducers",
+    "combine-reducers-to-root"
+  ],
+  "author": "imed jaberi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/redux-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/redux-vanilla-js#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
