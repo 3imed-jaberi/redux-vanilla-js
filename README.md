@@ -17,7 +17,7 @@
  - Write this command ``` npm run start ``` to run the app.
 
 ## Demo 
-![quick-demo](src/demo/demo.gif)
+![quick-demo](demo.gif)
   
 #### License
 ---
